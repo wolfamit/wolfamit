@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amitabh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack developer Nodejs is my expertise domain</h3>
 
 - 🔭 I’m currently working on **AI and Machine Learning**
 
