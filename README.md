@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amitabh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Attendance Management System**
+- 🔭 I’m currently working on **AI and Machine Learning**
 
 - 🌱 I’m currently learning **Next js**
 
-- 👯 I’m looking to collaborate on **E-commerce idea**
+- 👯 I’m looking to collaborate on **Startup idea**
 
 - 🤝 I’m looking for help with **open source**
 
